@@ -3,7 +3,6 @@
 ---
 ## Education
 ### B.S. Environmental Science from the University of Vermont, M.S. Geoscience from the University of Rhode Island 2025
-[St. Joseph Peninsula Disasters](/sample_page)
 
 ---
 ## Work Experience
