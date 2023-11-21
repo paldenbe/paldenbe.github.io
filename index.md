@@ -1,20 +1,21 @@
 ## Bio
+###Interested in geospatial technologies and water modeling. Masters of Science focused in Geoscience from University of Rhode Island.
+---
+## Education
+### B.S. Environmental Science from the University of Vermont, M.S. Geoscience from the University of Rhode Island 2025
+[St. Joseph Peninsula Disasters](/sample_page)
 
 ---
-### Education
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-### Work Experience
-
+## Work Experience
+### Teaching Assistant
+### Geospatial Researcher
 
 ---
-### Recent Projects
+## Recent Projects
+### DEVELOP National Program: St. Joseph Peninsula Disasters, Environmental Justice Needs Assessment
 
 
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+- [Sample Presentation](https://ntrs.nasa.gov/api/citations/20220006143/downloads/AJENDA%20VEJ.pdf)
 
 ---
 
